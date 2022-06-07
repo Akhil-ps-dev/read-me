@@ -3,4 +3,5 @@
 CSE A BATCH
 S1
 
-# megha 
+# arun
+<img src="/assets/lol (2).jpeg" width="100">
